@@ -1,6 +1,6 @@
 # dependent-selects
 
-Show filtered options on one select field depending on another made with vanilla JavaScript. See in action https://codepen.io/furalyon/pen/NzrXZL
+Show filtered options on one select field depending on another. This is made with vanilla JavaScript. You don't need any library. See in action https://codepen.io/furalyon/pen/NzrXZL
 
 ## To use
 
